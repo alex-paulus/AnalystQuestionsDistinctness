@@ -1,4 +1,4 @@
-# InformationRevelation
+# AnalystQuestionsDistinctness
 
 ***Julia Haag, Christian Hofmann, Alexander Paulus, Nina Schwaiger, Thorsten Sellhorn<br>***
 *LMU Munich School of Management*
